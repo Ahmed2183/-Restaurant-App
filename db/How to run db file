@@ -1,0 +1,3 @@
+Step1: Go to db folder in terminal
+Step2: Type command: npx json-server --watch db.json
+Step3: Go to localhost website

@@ -1,0 +1,54 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "name": "Ahmed",
+      "password": "abc.123"
+    },
+    {
+      "id": 2,
+      "name": "Raza",
+      "password": "raza.123"
+    },
+    {
+      "id": 3,
+      "name": "abc",
+      "password": "abc.123"
+    },
+    {
+      "name": "Saleem",
+      "password": "abc.234",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Pizza Hut",
+      "address": "Rahim Yar Khan",
+      "rating": "4.2",
+      "email": "pizzahut@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Lahore",
+      "rating": "4.3",
+      "email": "mcdonald@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Pizza Town",
+      "address": "Multan",
+      "rating": "4.5",
+      "email": "pizzatown@gmail.com"
+    },
+    {
+      "name": "Burger Lab",
+      "address": "Karachi",
+      "rating": "4",
+      "email": "burgerlab@gmail.com",
+      "id": 4
+    }
+  ]
+}
